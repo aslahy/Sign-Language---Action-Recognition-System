@@ -16,5 +16,6 @@ An action recognition system is implemented by extracting hand landmarks using M
 ## Other functionalities
 
 Audio to Text
+
 Text to Sign (just add a folder named 'signs' containing videos named after the corresponding sign)
 
