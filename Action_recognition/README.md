@@ -1,9 +1,9 @@
 
-# Sign detection using Mediapipe
+# Action recognition using Mediapipe
 
   
 
-Sign language detector with Python, OpenCV and Mediapipe !
+Action detector with Python, OpenCV and Mediapipe !
 
   
 
@@ -52,6 +52,5 @@ Trains the model on the data stored in the .npy file using a deep learning based
 
 ## model_test.py
 
-  
 
 Tests the action.h5 model in real-time.
